@@ -190,20 +190,12 @@ export default {
         list: [],
         loading: true,
         selected: 0,
-        selectedVersion: "v1.0",
+        selectedVersion: "v0.1",
 
         store,
 
         versions: [
-            "v1.0",
-            "v1.1",
-            "v1.2",
-            "v1.3",
-            "v1.4",
-            "v1.5",
-            "v1.6",
-            "v1.7",
-            "v1.8"
+            "v0.1"
         ]
     }),
 
