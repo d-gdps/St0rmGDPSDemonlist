@@ -1,0 +1,19 @@
+{
+    "id": 105,
+    "name": "SkibidiLand",
+    "author": "nilZeroGMD",
+    "creators": ["nilZeroGMD"],
+    "verifier": "nilZeroGMD",
+    "verification": "https://youtu.be",
+    "percentToQualify": 50,
+    "enjoyment": "2/10",
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Davidshaft",
+            "link": "https://www.youtube.com",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
