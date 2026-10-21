@@ -3,7 +3,7 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #01ffbb;
+    --color-primary: #6C2AB7;
     --color-on-primary: white;
     --color-error: #de0000;
     --color-on-error: white;
@@ -16,7 +16,7 @@ header.dark {
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #008f6b;
+    --color-primary: #4E008E;
     --color-primary-disabled: #1f213c;
     --color-on-primary: white;
     --color-error: #de0000;
@@ -97,14 +97,14 @@ input[type="checkbox"] {
 /* Light-mode header */
 header,
 header .nav {
-    background-color: #01ffbb;
+    background-color: #6C2AB7;
     color: white;
 }
 
 /* Dark-mode header */
 header.dark,
 header.dark .nav {
-    background-color: #008f6b;
+    background-color: #4E008E;
     color: white;
 }
 
