@@ -100,10 +100,10 @@ export default {
     },
     async mounted() {
 
-    let dir = '/DewGDPSDemonlist/data';
+    let dir = '/St0rmGDPSDemonlist/data';
 
     if (store.timeMachineVersion) {
-        dir = `/DewGDPSDemonlist/TimeMachine/${store.timeMachineVersion}/data`;
+        dir = `/St0rmGDPSDemonlist/TimeMachine/${store.timeMachineVersion}/data`;
     }
 
     const [leaderboard, err] = await fetchLeaderboard(dir);
