@@ -36,12 +36,21 @@ export async function fetchList(customDir = dir) {
     }
 }
 
+
 export async function fetchEditors() {
     try {
         const editorsResults = await fetch(`${dir}/_editors.json`);
+
+        if (!editorsResults.ok) {
+            throw new Error(
+                `HTTP ${editorsResults.status}: ${editorsResults.url}`
+            );
+        }
+
         const editors = await editorsResults.json();
         return editors;
-    } catch {
+    } catch (error) {
+        console.error('Failed to load list editors:', error);
         return null;
     }
 }
