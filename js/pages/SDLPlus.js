@@ -6,7 +6,7 @@ export default {
     data() {
         return {
             ...List.data(),
-            dataDir: '/DewGDPSDemonlist/DDLPlus',
+            dataDir: '/St0rmGDPSDemonlist/SDLPlus',
         };
     },
 
