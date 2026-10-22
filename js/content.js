@@ -3,7 +3,7 @@ import { round, score } from './score.js';
 /**
  * Path to directory containing `_list.json` and all levels
  */
-const dir = '/DewGDPSDemonlist/data';
+const dir = '/St0rmGDPSDemonlist/data';
 
 export async function fetchList(customDir = dir) {
     const listResult = await fetch(`${customDir}/_list.json`);
