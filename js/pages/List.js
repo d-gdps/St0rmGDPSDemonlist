@@ -73,7 +73,7 @@ export default {
                             <td class="mobile">
                                <img
     v-if="record.mobile"
-    :src="'/DewGDPSDemonlist/assets/phone-landscape' + (store.dark ? '-dark' : '') + '.svg'"
+    :src="'/St0rmGDPSDemonlist/assets/phone-landscape' + (store.dark ? '-dark' : '') + '.svg'"
     alt="Mobile"
 >
                             </td>
@@ -126,7 +126,7 @@ export default {
     <ol class="editors">
         <li v-for="editor in editors">        
 <img
-    :src="'/DewGDPSDemonlist/assets/' + editor.image.replace('.svg', (store.dark ? '-dark' : '') + '.svg')"
+    :src="'/St0rmGDPSDemonlist/assets/' + editor.image.replace('.svg', (store.dark ? '-dark' : '') + '.svg')"
     :alt="editor.name"
     width="24"
     height="24"
@@ -187,7 +187,7 @@ export default {
     selected: 0,
     errors: [],
     showAllowedCopies: false,
-    dataDir: '/DewGDPSDemonlist/data',
+    dataDir: '/St0rmGDPSDemonlist/data',
     store
 }),
     computed: {
