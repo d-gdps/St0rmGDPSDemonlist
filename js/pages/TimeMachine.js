@@ -140,7 +140,7 @@ export default {
                             <td class="mobile">
                                 <img
                                     v-if="record.mobile"
-                                    :src="'/DewGDPSDemonlist/assets/phone-landscape' + (store.dark ? '-dark' : '') + '.svg'"
+                                    :src="'/St0rmGDPSDemonlist/assets/phone-landscape' + (store.dark ? '-dark' : '') + '.svg'"
                                     alt="Mobile"
                                 >
                             </td>
@@ -233,7 +233,7 @@ export default {
             this.selected = 0;
 
             const dir =
-                `/DewGDPSDemonlist/TimeMachine/${version}/data`;
+                `/St0rmGDPSDemonlist/TimeMachine/${version}/data`;
 
             this.list = (await fetchList(dir)) ?? [];
 
