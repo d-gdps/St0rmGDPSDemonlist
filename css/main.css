@@ -171,3 +171,12 @@ main.dark .stats a {
 .popup-close:hover {
     opacity: 0.7;
 }
+
+.header-image {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    flex-shrink: 0;
+    margin-right: 6px;
+    vertical-align: middle;
+}
