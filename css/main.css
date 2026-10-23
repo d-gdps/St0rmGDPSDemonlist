@@ -172,11 +172,19 @@ main.dark .stats a {
     opacity: 0.7;
 }
 
-.header-image {
+header .logo {
+    justify-self: end;
+    align-self: center;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+header .header-image {
+    display: block;
     width: 32px;
     height: 32px;
     object-fit: contain;
     flex-shrink: 0;
-    margin-right: 6px;
-    vertical-align: middle;
+    margin: 0;
 }
