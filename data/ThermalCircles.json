@@ -1,6 +1,8 @@
 {
     "id": 128,
     "name": "Thermal Circles",
+    "image1": "EasyDemon.png",
+    "image2": "EasyDemonText.png",
     "author": "mcgam",
     "creators": ["mcgam"],
     "verifier": "mcgam",
