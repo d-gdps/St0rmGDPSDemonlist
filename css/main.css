@@ -196,8 +196,8 @@ header .logo {
 }
 
 header .header-image {
-    width: 64px;
-    height: 64px;
+    width: 58px;
+    height: 58px;
     object-fit: contain;
     flex-shrink: 0;
 }
