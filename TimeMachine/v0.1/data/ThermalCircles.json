@@ -1,0 +1,21 @@
+{
+    "id": 128,
+    "name": "Thermal Circles",
+    "image1": "EasyDemon.png",
+    "image2": "EasyDemonText.png",
+    "author": "mcgam",
+    "creators": ["mcgam"],
+    "verifier": "mcgam",
+    "clickMethod": "Click On Steps",
+    "verification": "https://www.youtube.com",
+    "percentToQualify": 50,
+    "enjoyment": "?/10",
+    "password": "Copyable",
+    "popupIDs": [
+        {
+            "id": 128,
+            "text": "Allowed (Default)"
+        }
+    ],
+    "records": []
+}
