@@ -1,0 +1,21 @@
+{
+    "id": 175,
+    "name": "Major League Circles",
+    "image1": "HardDemon.png",
+    "image2": "HardDemonText.png",
+    "author": "Davidshaft",
+    "creators": ["Davidshaft"],
+    "verifier": "Davidshaft",
+    "clickMethod": "Click On Steps",
+    "verification": "https://www.youtube.com/watch?v=lxTkEgywv7Y&t",
+    "percentToQualify": 50,
+    "enjoyment": "?/10",
+    "password": "Copyable",
+    "popupIDs": [
+        {
+            "id": 175,
+            "text": "Allowed (Default)"
+        }
+    ],
+    "records": []
+}
