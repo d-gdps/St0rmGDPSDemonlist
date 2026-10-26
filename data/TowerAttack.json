@@ -1,0 +1,21 @@
+{
+    "id": 176,
+    "name": "Tower Attack",
+    "image1": "MediumDemon.png",
+    "image2": "MediumDemonText.png",
+    "author": "Davidshaft",
+    "creators": ["Davidshaft"],
+    "verifier": "Davidshaft",
+    "clickMethod": "Click On Steps",
+    "verification": "https://www.youtube.com/watch?v=V_yxf6k75Zs",
+    "percentToQualify": 50,
+    "enjoyment": "?/10",
+    "password": "Copyable",
+    "popupIDs": [
+        {
+            "id": 176,
+            "text": "Allowed (Default)"
+        }
+    ],
+    "records": []
+}
