@@ -17,12 +17,5 @@
             "text": "Allowed (Default)"
         }
     ],
-    "records": [
-        {
-            "user": "Davidshaft",
-            "link": "https://www.youtube.com/watch?v=biv1myH8ah4",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+    "records": []
 }
