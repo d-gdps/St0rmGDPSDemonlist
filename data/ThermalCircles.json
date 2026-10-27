@@ -20,9 +20,10 @@
     "records": [
         {
             "user": "Davidshaft",
-            "link": "https://www.youtube.com",
+            "link": "https://youtu.be/tGmi7lZ9rk0",
             "percent": 100,
             "hz": 240
+            "clickMethod": "CBF"
         }
     ]
 }
