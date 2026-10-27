@@ -1,0 +1,29 @@
+{
+    "id": 185,
+    "name": "Physic17",
+    "image1": "ExtremeDemon.png",
+    "image2": "ExtremeDemonText.png",
+    "author": "Zonic",
+    "creators": ["Zonic"],
+    "verifier": "",
+    "clickMethod": "",
+    "verification": "https://www.youtube.com",
+    "percentToQualify": 28,
+    "enjoyment": "?/10",
+    "password": "Copyable",
+    "popupIDs": [
+        {
+            "id": 185,
+            "text": "Allowed (Default)"
+        }
+    ],
+    "records": [
+        {
+            "user": "Davidshaft",
+            "link": "https://youtube.com",
+            "percent": 41,
+            "hz": 240,
+            "clickMethod": "CBF"
+        }
+    ]
+}
