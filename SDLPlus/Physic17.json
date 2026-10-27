@@ -7,9 +7,9 @@
     "creators": ["Zonic"],
     "verifier": "",
     "clickMethod": "",
-    "verification": "https://www.youtube.com",
+    "verification": "https://www.youtube.com/watch?v=nBaQs8rzjlM",
     "percentToQualify": 28,
-    "enjoyment": "?/10",
+    "enjoyment": "7/10",
     "password": "Copyable",
     "popupIDs": [
         {
@@ -20,8 +20,8 @@
     "records": [
         {
             "user": "Davidshaft",
-            "link": "https://youtube.com",
-            "percent": 41,
+            "link": "https://www.youtube.com/watch?v=RxHeYaz5d6s",
+            "percent": 51,
             "hz": 240,
             "clickMethod": "CBF"
         }
